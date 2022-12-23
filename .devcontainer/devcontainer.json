@@ -9,14 +9,16 @@
 			"extensions": [
 				"aaronthomas.vscode-snazzy-operator",
 				"burkeholland.simple-react-snippets",
-				"PKief.material-icon-theme"
+				"PKief.material-icon-theme",
+				"dsznajder.es7-react-js-snippets",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
 	},
 	"settings": {
 		"workbench.colorTheme": "Snazzy Operator",
 		"workbench.iconTheme": "material-icon-theme",
-		"editor.fontFamily": "Victor Mono Medium"
+		"editor.fontFamily": "Victor Mono SemiBold"
 	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
