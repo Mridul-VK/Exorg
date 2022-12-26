@@ -8,7 +8,6 @@
 		"vscode": {
 			"extensions": [
 				"aaronthomas.vscode-snazzy-operator",
-				"burkeholland.simple-react-snippets",
 				"PKief.material-icon-theme",
 				"dsznajder.es7-react-js-snippets",
 				"bradlc.vscode-tailwindcss"
@@ -18,7 +17,12 @@
 	"settings": {
 		"workbench.colorTheme": "Snazzy Operator",
 		"workbench.iconTheme": "material-icon-theme",
-		"editor.fontFamily": "Victor Mono SemiBold"
+		"editor.fontFamily": "Victor Mono SemiBold",
+		"editor.renderWhitespace": "all",
+		"editor.lineHeight": 2.5,
+		"editor.mouseWheelZoom": true,
+		"files.autoSave": "off",
+		"editor.minimap.enabled": false
 	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
